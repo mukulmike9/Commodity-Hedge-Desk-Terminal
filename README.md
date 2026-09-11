@@ -10,11 +10,11 @@ Free-deployment commodity hedge-desk terminal.
 Yahoo data can be delayed and is not an exchange-direct execution feed.
 
 ## Deploy
-1. Create a GitHub repository.
-2. Upload `app.py`, `requirements.txt`, `README.md`, `.gitignore` and `.streamlit/config.toml`.
-3. Open Streamlit Community Cloud.
-4. Create app → select repository → branch → `app.py` → Deploy.
-5. No API key is required for the default data layer.
+1. Use Local Host..
+
+2. Deploy through Streamlit : https://commodity-hedge-desk-terminal-macros.streamlit.app/
+
+** No API key is required for the default data layer.
 
 ## Local test
 ```bash
