@@ -10,9 +10,8 @@ Free-deployment commodity hedge-desk terminal.
 Yahoo data can be delayed and is not an exchange-direct execution feed.
 
 ## Deploy
-1. Use Local Host..
 
-2. Deploy through Streamlit : https://commodity-hedge-desk-terminal-macros.streamlit.app/
+## Direct Deploy through Streamlit : https://commodity-hedge-desk-terminal-macros.streamlit.app/
 
 ** No API key is required for the default data layer.
 
@@ -23,3 +22,8 @@ streamlit run app.py
 ```
 
 Prices are cached for 60 seconds. FRED data is cached for 15 minutes. The app shows `—` rather than fabricating missing provider values.
+
+**Deployment View :**
+
+<img width="1353" height="625" alt="image" src="https://github.com/user-attachments/assets/564bdd2e-a65d-4e91-bf90-bd976fb89565" />
+
